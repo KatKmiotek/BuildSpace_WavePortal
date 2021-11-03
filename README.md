@@ -13,4 +13,3 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-0x2726Dcb61a6f2aBE9e5eA25B731aF811Ff28e868
