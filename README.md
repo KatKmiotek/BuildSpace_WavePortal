@@ -13,3 +13,20 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+run locally:
+```sh
+npx hardhat run scripts/run.js
+```
+start network locally:
+```sh
+npx hardhat node
+```
+deploy locally:
+```sh
+npx hardhat run scripts/deploy.js --network localhost
+```
+depoy to test network:
+```sh
+npx hardhat run scripts/deploy.js --network rinkeby
+
+```
